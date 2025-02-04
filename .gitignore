@@ -1,0 +1,35 @@
+/.vscode
+/AppData
+/Contacts
+/Documents
+/Downloads
+/Favorites
+/Links
+/Music
+/NTUSER.DAT
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/NTUSER.DAT{082462cd-df1d-11ef-b470-dbeea33ff59e}.TM.blf
+/NTUSER.DAT{082462cd-df1d-11ef-b470-dbeea33ff59e}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{082462cd-df1d-11ef-b470-dbeea33ff59e}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini
+/PCManger
+/Saved Games
+/Searches
+/SQL_
+/Videos
+/OneDrive
+/Application Data
+/Cookies
+/Menu Iniciar
+/Definições Locais
+/NetHood
+/Modelos
+/Os Meus Documentos
+/PrintHood
+/Recent
+/SendTo
+SQL_Project_Data_Job_Analysis/csv_files/company_dim.csv
+SQL_Project_Data_Job_Analysis/csv_files/job_postings_fact.csv
+SQL_Project_Data_Job_Analysis/csv_files/skills_dim.csv
+SQL_Project_Data_Job_Analysis/csv_files/skills_job_dim.csv
